@@ -39,7 +39,6 @@ Suggests:
     emmeans,
     ggpubr,
     interactions,
-    openxlsx2 (>= 0.8),
     patchwork,
     psych,
     VennDiagram,
